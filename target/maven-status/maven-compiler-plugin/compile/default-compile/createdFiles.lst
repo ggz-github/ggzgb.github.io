@@ -1,0 +1,10 @@
+com\service\impl\BrandServiceImpl.class
+com\web\servlet\old\selectAllServlet.class
+com\mapper\BrandMapper.class
+com\web\servlet\BaseServlet.class
+com\web\servlet\BrandServlet.class
+com\service\BrandService.class
+com\pojo\Brand.class
+com\pojo\PageBean.class
+com\web\servlet\old\addBrandServlet.class
+com\util\SqlSessionFactoryUtils.class
